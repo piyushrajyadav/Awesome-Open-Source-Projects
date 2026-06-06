@@ -3,16 +3,6 @@
 
 ### The most comprehensive, developer-curated directory of open source projects on GitHub
 
-[![Stars](https://img.shields.io/github/stars/USERNAME/awesome-open-source-universe?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a2e)](https://github.com/USERNAME/awesome-open-source-universe/stargazers)
-[![Forks](https://img.shields.io/github/forks/USERNAME/awesome-open-source-universe?style=for-the-badge&logo=github&color=00BFFF&labelColor=1a1a2e)](https://github.com/USERNAME/awesome-open-source-universe/network/members)
-[![Contributors](https://img.shields.io/github/contributors/USERNAME/awesome-open-source-universe?style=for-the-badge&color=ff6b6b&labelColor=1a1a2e)](https://github.com/USERNAME/awesome-open-source-universe/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a2e)](CONTRIBUTING.md)
-[![Last Commit](https://img.shields.io/github/last-commit/USERNAME/awesome-open-source-universe?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e)](https://github.com/USERNAME/awesome-open-source-universe/commits)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&labelColor=1a1a2e)](LICENSE)
-[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%93-fc60a8?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=1a1a2e)](https://awesome.re)
-
-<br/>
-
 > **500+ open source projects** • **31 categories** 
 > A comprehensive, categorized list of the best open source projects across all domains — self-hosted apps, AI/ML frameworks, DevOps tools, databases, frontend/backend, security, and more.
  
