@@ -3,11 +3,11 @@
 
 ### The most comprehensive, developer-curated directory of open source projects on GitHub
 
-> **500+ open source projects** • **31 categories** 
+> **500+ open source projects** • **30 categories** 
 > A comprehensive, categorized list of the best open source projects across all domains — self-hosted apps, AI/ML frameworks, DevOps tools, databases, frontend/backend, security, and more.
  
 ---
-<br/>
+
 ## 📑 Table of Contents
  
 1. [📊 Analytics & Monitoring](#-analytics--monitoring)
