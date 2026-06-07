@@ -9,18 +9,8 @@
 **The most comprehensive, developer-curated directory of open source projects on the internet.**
  
 *Covering every domain — AI, DevOps, databases, frameworks, security, self-hosted tools, and more.*
- 
-<br/>
-[![Stars](https://img.shields.io/github/stars/USERNAME/awesome-open-source-universe?style=for-the-badge&logo=github&color=f4c542&labelColor=0d1117)](https://github.com/USERNAME/awesome-open-source-universe/stargazers)
-[![Forks](https://img.shields.io/github/forks/USERNAME/awesome-open-source-universe?style=for-the-badge&logo=git&color=58a6ff&labelColor=0d1117)](https://github.com/USERNAME/awesome-open-source-universe/network/members)
-[![Contributors](https://img.shields.io/github/contributors/USERNAME/awesome-open-source-universe?style=for-the-badge&logo=opensourceinitiative&color=3fb950&labelColor=0d1117)](https://github.com/USERNAME/awesome-open-source-universe/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)](CONTRIBUTING.md)
-[![Last Commit](https://img.shields.io/github/last-commit/USERNAME/awesome-open-source-universe?style=for-the-badge&logo=clockify&logoColor=white&color=a371f7&labelColor=0d1117)](https://github.com/USERNAME/awesome-open-source-universe/commits)
-[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%93-fc60a8?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=0d1117)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&labelColor=0d1117)](LICENSE)
- 
-<br/>
-> **600+ Projects** &nbsp;•&nbsp; **35 Categories** &nbsp;•&nbsp; **Updated Weekly** &nbsp;•&nbsp; **Every Link Verified** &nbsp;•&nbsp; **100% Free & Open Source**
+
+> **600+ Projects** &nbsp;•&nbsp; **35 Categories** &nbsp;•&nbsp; **100% Free & Open Source**
  
 <br/>
 [Explore by Category ↓](#-table-of-contents) &nbsp;|&nbsp; [Add a Project](CONTRIBUTING.md) &nbsp;|&nbsp; [Report Dead Link](../../issues)
