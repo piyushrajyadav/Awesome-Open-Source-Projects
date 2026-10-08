@@ -555,6 +555,7 @@ Most open source lists are either too narrow (only self-hosted) or too messy (no
 | [**OpenProject**](https://github.com/opf/openproject) | Enterprise-grade open source project management | [![Stars](https://img.shields.io/github/stars/opf/openproject?style=flat-square&color=f4c542)](https://github.com/opf/openproject) |
 | [**Plane**](https://github.com/makeplane/plane) | Open source Jira and Linear alternative | [![Stars](https://img.shields.io/github/stars/makeplane/plane?style=flat-square&color=f4c542)](https://github.com/makeplane/plane) |
 | [**Taiga**](https://github.com/taigaio/taiga-back) | Agile project management for sprints and Kanban | [![Stars](https://img.shields.io/github/stars/taigaio/taiga-back?style=flat-square&color=f4c542)](https://github.com/taigaio/taiga-back) |
+| [**Tale**](https://github.com/tale-project/tale) | Self-hosted team workspace for assigning tasks to AI agents and reviewing reports and deliverables | [![Stars](https://img.shields.io/github/stars/tale-project/tale?style=flat-square&color=f4c542)](https://github.com/tale-project/tale) |
 | [**Vikunja**](https://github.com/go-vikunja/vikunja) | Self-hosted to-do list and project manager | [![Stars](https://img.shields.io/github/stars/go-vikunja/vikunja?style=flat-square&color=f4c542)](https://github.com/go-vikunja/vikunja) |
 | [**Wekan**](https://github.com/wekan/wekan) | Open source Trello-like Kanban board | [![Stars](https://img.shields.io/github/stars/wekan/wekan?style=flat-square&color=f4c542)](https://github.com/wekan/wekan) |
 
