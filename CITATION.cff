@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Awesome Open Source Universe
+message: If you use this list, please cite it.
+type: software
+authors:
+  - name: Piyush Yadav
+repository-code: https://github.com/piyushrajyadav/Awesome-Open-Source-Projects
+license: MIT
+keywords: [awesome, awesome-list, open-source, self-hosted, developer-tools]

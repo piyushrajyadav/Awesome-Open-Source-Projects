@@ -1,0 +1,16 @@
+name: 🔗 Report dead or outdated link
+description: A project is archived, moved, or the link is broken
+labels: ["maintenance"]
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project name and category
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What is wrong? (404, archived, unmaintained, moved to...)
+    validations:
+      required: true
