@@ -363,6 +363,7 @@ Most open source lists are either too narrow (only self-hosted) or too messy (no
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [**act**](https://github.com/nektos/act) | Run your GitHub Actions locally | [![Stars](https://img.shields.io/github/stars/nektos/act?style=flat-square&color=f4c542)](https://github.com/nektos/act) |
+| [**Akii: SEO & AI Search Optimizer**](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) | Claude Code plugin for site audits, link checks, content planning, and JSON-LD schema | [![Stars](https://img.shields.io/github/stars/akii-technologies-ltd/akii-seo-ai-search-optimizer?style=flat-square&color=f4c542)](https://github.com/akii-technologies-ltd/akii-seo-ai-search-optimizer) |
 | [**Biome**](https://github.com/biomejs/biome) | Rust-powered formatter + linter — replaces ESLint + Prettier | [![Stars](https://img.shields.io/github/stars/biomejs/biome?style=flat-square&color=f4c542)](https://github.com/biomejs/biome) |
 | [**Bytebase**](https://github.com/bytebase/bytebase) | Database DevOps tool — schema change, versioning, governance | [![Stars](https://img.shields.io/github/stars/bytebase/bytebase?style=flat-square&color=f4c542)](https://github.com/bytebase/bytebase) |
 | [**ByteStash**](https://github.com/jordan-dalby/ByteStash) | Self-hosted web app for storing and organizing code snippets | [![Stars](https://img.shields.io/github/stars/jordan-dalby/ByteStash?style=flat-square&color=f4c542)](https://github.com/jordan-dalby/ByteStash) |
